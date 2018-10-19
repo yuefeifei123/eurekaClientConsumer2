@@ -1,0 +1,1 @@
+this is the eureka client  2 --consumer--port:8090
